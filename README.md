@@ -12,5 +12,6 @@ Estadístico de los resultados obtenidos:
 
 ![image](https://github.com/user-attachments/assets/e3cb5d95-e03d-43de-a99a-aac98ec7db1d)
 
+![image](https://github.com/user-attachments/assets/497af699-e6b1-4802-b5cf-965d9da9d19b)
 
 
